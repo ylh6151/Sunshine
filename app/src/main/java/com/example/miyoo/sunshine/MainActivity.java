@@ -68,7 +68,7 @@ public class MainActivity extends ActionBarActivity {
 
             String[] forecastArray = {
                     "Today - Sunny - 88/63",
-                    "Tomorrow = Foggy = 70/40",
+                    "Tomorrow - Foggy - 70/40",
                     "Weds - Cloudy - 72/63",
                     "Thurs - Asteroids - 75/65",
                     "Fri - Heavy Rain - 65/56",
